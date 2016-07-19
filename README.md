@@ -1,4 +1,4 @@
-# Xamarin-ListView
+# Xamarin-GridView
 
 
 so i did this in my free time.it doesn't actually exist in the xamarin.forms
